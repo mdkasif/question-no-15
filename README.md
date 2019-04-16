@@ -1,0 +1,2 @@
+# question-no-15
+A uniprocessor system has a number of cpu intensive processes,each process has its own requirement of cpu burst.process with lowest burst time is given higherv priority.and a late arriving higher priority process can preempt a currentlt running process with lower priority.simulate scheduler that higher priority process is never starved due to execution of lower priority process .find avg waiting time and turn around time.
